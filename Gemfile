@@ -118,3 +118,6 @@ end
 
 gem 'graphiql-rails'
 gem 'graphql', '= 1.12.16'
+
+# Add Sentry.IO support
+gem 'sentry-ruby'
